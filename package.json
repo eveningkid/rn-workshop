@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "expo": "^27.0.1",
+    "firebase": "^5.3.1",
     "md5": "^2.2.1",
     "moment": "^2.22.2",
     "plural": "^1.1.0",
